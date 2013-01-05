@@ -18,5 +18,6 @@ SerialLedTestSER.pde  - Sparkfun Serial LED Display    - Serial Version (4 char)
 
 SerialLedTestSPI.pde  - Sparkfun Serial LED Display    - SPI Version (4 char)
 
+LCDEncoderEntry.pde   - Data entry via rotary encoder and 2x16 LCD display
 
 
