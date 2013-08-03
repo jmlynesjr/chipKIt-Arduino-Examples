@@ -1,6 +1,7 @@
 ChipKIT UNO - Arduino/mpide example files
 
 Created by: James M. Lynes, Jr. January 2013
+Updated: August 3, 2013
 
 See the Library dependencies and pin outs in the individual module headers
 
@@ -19,5 +20,11 @@ SerialLedTestSER.pde  - Sparkfun Serial LED Display    - Serial Version (4 char)
 SerialLedTestSPI.pde  - Sparkfun Serial LED Display    - SPI Version (4 char)
 
 LCDEncoderEntry.pde   - Data entry via rotary encoder and 2x16 LCD display
+
+Fubarino-Mini-Pinout.ods  - Pinout Crossreference to assist with PPS - Open Office Format
+
+Fubarino-Mini-Pinout.xls  - Pinout Crossreference to assist with PPS - MS-Excel Format
+
+
 
 
