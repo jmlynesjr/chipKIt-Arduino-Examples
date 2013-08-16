@@ -1,7 +1,7 @@
 ChipKIT UNO - Arduino/mpide example files
 
 Created by: James M. Lynes, Jr. January 2013
-Updated: August 14, 2013
+Updated: August 16, 2013
 
 See the Library dependencies and pin outs in the individual module headers
 
@@ -24,6 +24,10 @@ LCDEncoderEntry.pde   - Data entry via rotary encoder and 2x16 LCD display
 Fubarino-Mini-Pinout.ods  - Pinout Crossreference to assist with PPS - Open Office Format(updated)
 
 Fubarino-Mini-Pinout.xls  - Pinout Crossreference to assist with PPS - MS-Excel Format(updated)
+
+I2CMasterTest.pde     - chipKIT to chipKIT comms via I2C master node - chipKIT UNO32
+
+I2CSlaveTest.pde      - chipKIT to chipKIT comms via I2C slave node  - Fubarino Mini
 
 
 
